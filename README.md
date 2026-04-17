@@ -146,14 +146,6 @@ smart-canteen/
 - Multi-canteen support
 - Chatbot for customer support
 
-## Contributing
-
-This is a demo project for hackathon purposes. Feel free to extend and modify the codebase.
-
-## License
-
-MIT License - Feel free to use this project for educational and commercial purposes.
-
 ## Team
 
 **Team Name**: InnovX  
@@ -161,5 +153,4 @@ MIT License - Feel free to use this project for educational and commercial purpo
 
 ---
 
-### Note
-This is a prototype/demo application. Payment processing, email notifications, and some advanced features are simulated for demonstration purposes.
+
